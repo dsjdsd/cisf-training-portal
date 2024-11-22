@@ -1,0 +1,14 @@
+.btn-group.bootstrap-select.form-control.form-control-sm {
+    display: show;
+    width: 43%;
+    height: calc(2.25rem + 2px);
+    padding: .375rem .75rem;
+    border: none;
+} 
+.btn-group.bootstrap-select.form-control {
+    border: none;
+    padding: 0;
+}
+.btn-simple{
+    display:none;
+}
